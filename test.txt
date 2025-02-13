@@ -2,3 +2,4 @@ hello friends
 how are you
 first change to compare
 second change to compare
+add change to push it to remote
